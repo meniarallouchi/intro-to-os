@@ -35,3 +35,6 @@ intro-to-os/
 │   │   ├── Users and Groups Management in Linux
 └── └── └── ...
 ```
+## important
+the book PDF is too large to preview on gitHub
+> to read it, just **download the raw file**
