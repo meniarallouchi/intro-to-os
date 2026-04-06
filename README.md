@@ -19,6 +19,9 @@ intro-to-os/
 │   ├── file management lab/
 │   │   ├── linux lab directories files links
 │   │   └── linux lab report
+│   ├── users and group management lab/
+│   │   ├── users and group management lab
+│   │   └── linux lab report
 │   └── ...
 ├── slides/
 │   ├── 1 intro/
