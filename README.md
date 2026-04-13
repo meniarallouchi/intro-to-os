@@ -25,18 +25,16 @@ intro-to-os/
 │   └── ...
 ├── slides/
 │   ├── 1 intro/
-│   │   ├── lecture 1 intro to os
-│   │   └── lecture 2 intro to linux os
 │   ├── 2 file management in linux/
 │   │   ├── 1 Linux File System
 │   │   ├── 2 Paths in Linux
 │   │   ├── 3 Directories Management
 │   │   ├── 4 Regular Files Management
-│   │   ├── 5 Redirection  pipeline in Linux
+│   │   ├── 5 Redirection pipeline in Linux
 │   │   └── 6 Links Management
 │   ├── 3 user management in linux/
-│   │   ├── Users and Groups Management in Linux
-└── └── └── ...
+│   ├── 4 controlling access to files in linux/
+└── └── ...
 ```
 ## important
 the book PDF is too large to preview on gitHub
